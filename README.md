@@ -9,3 +9,14 @@
 
 4. Create package named controller, and create WelcomeController.java inside the controller package.
 
+5. Spring related annotioans
+   @RestController
+   @GetMapping
+   @PostMapping
+   @DeleteMapping
+   @PathVariable
+   @RequestBody
+   
+6. SpringBoot related annotations
+   @SpringBootApplication
+   @SpringApplication
