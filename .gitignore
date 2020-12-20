@@ -1,9 +1,9 @@
-/.mvn/
+.mvn/
 mvnw.cmd
 
 HELP.md
-/target/
-/.mvn/wrapper/
+target/
+.mvn/wrapper/
 !.mvn/wrapper/maven-wrapper.jar
 
 .classpath
