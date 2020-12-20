@@ -3,7 +3,7 @@
    [Spring Initializr](https://start.spring.io/).
    
 **Un-Zip the downloaded project skeleton in your workspace, and execute following command in command prompt.**
-   `mvn eclipse:clean eclipse:eclipse`
+* `mvn eclipse:clean eclipse:eclipse`
 
 **Import the project into eclipse IDE.**
 
