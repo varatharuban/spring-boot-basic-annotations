@@ -1,8 +1,16 @@
-.mvn/
+## Maven:
+!.mvn/wrapper/maven-wrapper.jar
+/.mvn/
+/mvnw
+/mvnw.bat
+mvnw.cmd
+/log/
+*.log*
 target/
+
+## Eclipse, Spring, and Gradle:
 .classpath
 .project
+
+## Git
 HELP.md
-mvnw
-mvnw.cmd
-!.mvn/wrapper/maven-wrapper.jar
